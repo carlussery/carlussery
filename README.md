@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @carlussery
-- 👀 I’m interested in data analysis, business analysis, financial analysis, and security analysis
-- 🌱 I’m currently learning to master SQL, R, and Python
+- 👋 Hi, I’m Carl Ussery.
+- 👀 I’m a data analyst and I'm thrilled to share and document my learning journey.
+- 🌱 I’m currently learning the art of data storytelling using SQL, Tableau, and R (as well as dabbling into Python on occaision).
+- 📘 My passions include business & finance, geography & geopolitics, football, reading, exercise, travelling, and chess.
+
+
+
 
 <!---
 carlussery/carlussery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
